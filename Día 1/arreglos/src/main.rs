@@ -1,6 +1,7 @@
 fn main() {
     //Arreglos
     let mut arreglo1: [i8;3] = [5,2,8];
+    
     println!("{}",arreglo1[1]);
     println!("{arreglo1:?}");
     arreglo1[1] = 7;

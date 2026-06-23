@@ -1,0 +1,1 @@
+/home/daredliuth/Documentos/Cursos/Curso-Rust/Día\ 2/patrones-destructuracion/target/debug/patrones-destructuracion: /home/daredliuth/Documentos/Cursos/Curso-Rust/Día\ 2/patrones-destructuracion/src/main.rs
